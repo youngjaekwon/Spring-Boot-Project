@@ -2,13 +2,13 @@
 
 ---
 
-### 👊 Stack
+#### 👊 Stack
 
 - Spring Boot
 - Thymeleaf
 - Boot Strap
 
-### 🛠 Tools
+#### 🛠 Tools
 
 - IntelliJ
 - Git
