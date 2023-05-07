@@ -2,7 +2,7 @@
 
 ---
 
-#### 👊 Stack
+#### 👊 Stacks
 
 - Spring Boot
 - Thymeleaf
